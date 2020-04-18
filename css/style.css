@@ -250,6 +250,7 @@ html {
     grid-template-rows: 48px;
     grid-gap: 1rem;
     padding: 0 1rem;
+    padding-bottom: 5rem;
 }
 
 .video-comments__new {
