@@ -326,7 +326,6 @@ html {
     display: grid;
     grid-template-rows: 48px auto 48px auto;
     padding: 1rem;
-    border-radius: 0 0 16px 0;
     overflow: auto;
 }
 
